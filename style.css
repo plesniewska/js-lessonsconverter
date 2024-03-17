@@ -1,0 +1,33 @@
+body {
+ background-image: url(clouds.jpg);
+ width: 100%;
+}
+.title {
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+table {
+        table-layout: fixed;
+        width: 50%;
+        border-collapse: collapse;
+        border: 1px solid white;
+        text-align: center;
+        color: white;
+    }
+
+    td {
+        border: 1px solid white;
+        text-align: center;
+        font: Arial white;
+}
+tbody {
+    background: linear-gradient(to bottom, #5c9df1, #fd3d02);
+}
+thead {
+    background-color: #5dad8c;
+}
+.table {
+    display: flex;
+    justify-content: center;
+}
